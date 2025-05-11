@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vijeth Reddy</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 - 🔭 I’m currently working on **Detecting web attacks with end to end deep learning**
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👯 I’m looking to collaborate on **Java development**
+- 👯 I’m looking to collaborate on **Java native projects**
 
 - 📫 How to reach me **vijethreddy2003@gmail.com**
 
